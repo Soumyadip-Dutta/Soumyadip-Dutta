@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Soumyadip-Dutta
+- 👋 Hi, I’m @Soumyadip-Dutta , I graduated in Electronics and Communication in 2022.
 - 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking for a job
-- 📫 How to reach me ...
+-
 
 <!---
 Soumyadip-Dutta/Soumyadip-Dutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
